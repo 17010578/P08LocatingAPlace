@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08-Locating A Place</string>
+    <string name="text">ABC Pte Ltd \n We now have 3 branches. Look before for the address and info</string>
+    <string-array name="spinner">
+        <item></item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
